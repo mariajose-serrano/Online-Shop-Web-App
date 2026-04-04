@@ -34,9 +34,6 @@ The project follows a professional structure to ensure maintainability:
 
 1. Clone the repository:
 
-```bash id="z8x7bn"
-git clone https://github.com/Colet-Cristina/modulo-2-evaluacion-final-Colet-Cristina.git
-```
 
 2. Install dependencies:
 
